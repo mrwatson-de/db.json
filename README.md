@@ -1,7 +1,7 @@
-## Try it
+## What is this?
 
-[https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/typicode/demo)
+It's a fake database based on the db.json file, which can be accessed from
 
-## Use your own data
+[https://my-json-server.typicode.com/mrwatson-de/db.json](https://my-json-server.typicode.com/mrwatson-de/db.json)
 
-Fork it and change `db.json` values or create a repo with a `db.json` file.
+I'm using it to test programming APIs
